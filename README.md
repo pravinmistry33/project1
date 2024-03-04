@@ -6,5 +6,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 NEW DELHI: PM Narendra Modi on Monday hailed the Supreme Court verdict in the JMM bribery case calling it a "great judgment" which will ensure "clean politics". The Supreme Court overruled the 1998 Narasimha Rao verdict saying that "an MP or MLA can't claim immunity from prosecution on a charge of bribery in connection with the vote/speech in the Parliament/legislative assembly."
 
-
-Pravin Mistry is learning git
+Pravin Mistry is still learning git.
